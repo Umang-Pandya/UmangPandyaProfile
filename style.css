@@ -1,0 +1,54 @@
+#mainheader{
+    color : #16308d;
+}
+
+
+.headercomponent{
+    color : #16308d;
+    text-align: center;   
+}
+
+#profilepicture{
+    float : left;
+}
+
+#skillsets{
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    white-space: nowrap;
+}
+
+#linkset{
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    white-space: nowrap;
+}
+
+#contacts{
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    white-space: nowrap;
+}
+
+#content{
+    font-size: large;
+}
+
+#intro{
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    background-color: #748df1;
+}
+
+#aboutme{
+    float : left;
+    background-color: #92a8ff;
+}
+
+td{
+    text-align: center;
+}
