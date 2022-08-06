@@ -41,12 +41,12 @@
     width: 100%;
     max-width: 100%;
     margin-bottom: 20px;
-    background-color: #748df1;
+    /* background-color: #92a8ff; */
 }
 
 #aboutme{
     float : left;
-    background-color: #92a8ff;
+    /* background-color: #92a8ff; */
 }
 
 td{
